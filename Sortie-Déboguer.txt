@@ -1,0 +1,22 @@
+﻿'Sokoban.exe' (CLR v4.0.30319: DefaultDomain) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: DefaultDomain) : Chargé 'C:\Users\olist\OneDrive\Bureau\developpeur\prod\prod elephorm\Sokoban\Sokoban\bin\Debug\Sokoban.exe'. Les symboles ont été chargés.
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PrivateAssemblies\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_fr_b77a5c561934e089\mscorlib.resources.dll'. Le module a été généré sans symboles.
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework.Aero2\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.Aero2.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationCore.resources\v4.0_4.0.0.0_fr_31bf3856ad364e35\PresentationCore.resources.dll'. Le module a été généré sans symboles.
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'c:\program files (x86)\microsoft visual studio\2019\community\common7\ide\commonextensions\microsoft\xamldiagnostics\Framework\x86\Microsoft.VisualStudio.DesignTools.WpfTap.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Internals\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Internals.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationTypes\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationProvider\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationProvider.dll'. 
+'Sokoban.exe' (CLR v4.0.30319: Sokoban.exe) : Chargé 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization.resources\v4.0_4.0.0.0_fr_b77a5c561934e089\System.Runtime.Serialization.resources.dll'. Le module a été généré sans symboles.
+Le programme '[15352] Sokoban.exe' s'est arrêté avec le code 0 (0x0).
